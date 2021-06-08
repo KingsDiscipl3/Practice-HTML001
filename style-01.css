@@ -1,0 +1,147 @@
+
+
+body {
+	background-color: lightGray;
+	text-align: center;
+}
+
+h6 {
+	color: purple;
+}
+
+.gray-element {
+	background-color: lightGray;
+	color: black;
+	text-align: center;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+
+.black-label {
+	background-color: purple;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: Georgia;
+}
+
+.border-one {
+	text-align: center;
+	color: purple;
+	background-color: white;
+	font-size: 25px;
+	font-weight: bold;
+	width: 700px;
+	font-family: Georgia;
+	border: solid 10px purple;
+	border-radius: 15px;
+	margin-left: 600px;
+	margin-top: 30px;
+}
+
+.error-code-img {
+	text-align: center;
+	border: solid 3px;
+	border-radius: 5px;
+	padding: 40px;
+	margin: 10px;
+	width: 300px;
+}
+
+.internal-wire-img {
+	text-align: center;
+	border: solid 3px;
+	border-radius: 5px;
+	padding: 40px;
+	margin: 10px;
+	width: 300px;
+	
+}
+
+.it-works-img {
+	text-align: center;
+	border: solid 3px;
+	border-radius: 5px;
+	padding: 40px;
+	margin: 10px;
+	width: 300px;
+}
+
+.page-menu {
+	text-align: center;
+	font-weight: bold;
+}
+
+
+.menu-buttons {
+	background-color: white;
+	color: purple;
+	border-radius: 8px;
+	border: solid black;
+	margin: 5px 0 10px 0;
+} 
+
+.setting-menu-img {
+	background-color: black;
+	padding: 15px;
+	margin: 20px;
+	border: solid 5px white;
+	border-radius: 50px;
+}
+
+.robot-build-img {
+	background-color: black;
+	padding: 20px 10px 20px 10px;
+	margin: 20px;
+	border: solid 5px white;
+	border-radius: 25px;
+}
+
+.input-h1-element {
+	background-color: black;
+	color: white;
+	text-align: center;
+	width: 800px;
+	margin-left: 550px;
+}
+
+.input-email-password {
+	background-color: black;
+	color: white;
+	width: 500px;
+	font-size: 20px;
+	margin-left: 700px;
+	padding: 10px;
+}
+
+.input-personal-info {
+	background-color: black;
+	color: white;
+	width: 500px;
+	font-size: 18px;
+	margin-left: 700px;
+	padding: 10px;
+}
+
+.shorts-css-comp {
+	height: 300px;
+	padding: ;
+	margin: 50px;
+	transform: rotate(20deg);
+}
+
+.shorts-css-blue {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+

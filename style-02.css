@@ -1,0 +1,52 @@
+body {
+	background-color: lightGray;
+	text-align: center;
+}
+
+.page-menu {
+	text-align: center;
+	font-weight: bold;
+}
+
+.menu-buttons {
+	background-color: white;
+	color: purple;
+	border-radius: 8px;
+	border: solid black;
+	margin: 5px 0 10px 0;
+	display: inline;
+}
+
+.mids-header {
+	background-color: slateGray;
+	color: #ffffff;
+	padding: 20px;
+	border: solid 10px black;
+	border-radius: 25px;
+	font-size: 30px;
+	font-family: Verdana;
+	font-weight: bold;
+}
+
+.first-div {
+    background-color: gray;
+	margin-top: 20px; 
+}
+
+.firstDiv-img {
+	position: relative;
+	width: 300px;
+	padding: 25px;
+}
+
+.main-header {
+	background-color: gray;
+	color: snow;
+	font-family: cursive;
+	border: solid 2px black;
+	border-radius: 10px;
+	width: 500px;
+	margin: auto;
+}
+
+
